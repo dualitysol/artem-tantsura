@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://artem-tantsura.gildedgull2.chatgpt.site/sitemap.xml
+Sitemap: https://artem-tantsura.com/sitemap.xml
